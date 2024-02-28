@@ -1,0 +1,38 @@
+header{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+   
+}
+
+nav{
+    background-color: orangered;
+    color: white;
+    padding: 12px;
+   
+}
+nav ul{
+    list-style-type: none;
+    padding: 0px;
+  margin: 0px;
+  
+  
+}
+
+nav li{
+    text-align: center;
+    list-style-type: none;
+  display: inline-block;
+  margin-right: 20px;
+  
+}
+
+footer{
+   background-color: gray; 
+   color: white;
+   text-align: center;
+}
+
+div{
+    text-align: justify;
+}
